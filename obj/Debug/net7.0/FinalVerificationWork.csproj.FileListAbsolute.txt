@@ -1,0 +1,15 @@
+D:\Рабочий стол\FinalVerificationWork\bin\Debug\net7.0\FinalVerificationWork.exe
+D:\Рабочий стол\FinalVerificationWork\bin\Debug\net7.0\FinalVerificationWork.deps.json
+D:\Рабочий стол\FinalVerificationWork\bin\Debug\net7.0\FinalVerificationWork.runtimeconfig.json
+D:\Рабочий стол\FinalVerificationWork\bin\Debug\net7.0\FinalVerificationWork.dll
+D:\Рабочий стол\FinalVerificationWork\bin\Debug\net7.0\FinalVerificationWork.pdb
+D:\Рабочий стол\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.csproj.AssemblyReference.cache
+D:\Рабочий стол\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.AssemblyInfoInputs.cache
+D:\Рабочий стол\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.AssemblyInfo.cs
+D:\Рабочий стол\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.dll
+D:\Рабочий стол\FinalVerificationWork\obj\Debug\net7.0\refint\FinalVerificationWork.dll
+D:\Рабочий стол\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.pdb
+D:\Рабочий стол\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.genruntimeconfig.cache
+D:\Рабочий стол\FinalVerificationWork\obj\Debug\net7.0\ref\FinalVerificationWork.dll
